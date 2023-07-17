@@ -1,6 +1,6 @@
 ## A little about me
 
-Hey! I'm Sofia, a third year AI student at University of Groningen with future prospects for data science. Throuhgout my studies I've worked on different machine learning applications in addition to gaining basic knowledge of various programming languages.
+Hey! I'm Sofia, a recent AI graduate from the University of Groningen with future prospects for data science. Throughout my studies, I've worked on different machine learning applications in addition to gaining basic knowledge of various programming languages.
 
 ##### 📨 Get in touch
 sofiateeriaho@mac.com
